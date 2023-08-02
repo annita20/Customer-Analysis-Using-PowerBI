@@ -6,28 +6,28 @@ Customer Analysis is a crucial aspect of any business that aims to understand it
 
 Project Objectives:
 
-To gain a deeper understanding of customer behavior, preferences, and needs.
-To identify and analyze customer segments based on demographics, behavior, and preferences.
-To predict customer behavior and anticipate their needs through predictive analytics.
-To enhance customer experiences by identifying areas of improvement through customer feedback and reviews.
-To develop strategies for increasing customer loyalty and retention based on customer behavior and preferences.
+* Gain a deeper understanding of customer behavior, preferences, and needs.
+* Identify and analyze customer segments based on demographics, behavior, and preferences.
+* Predict customer behavior and anticipate their needs through predictive analytics.
+* Enhance customer experiences by identifying areas of improvement through customer feedback and reviews.
+* Develop strategies for increasing customer loyalty and retention based on customer behavior and preferences.
 
 Key Visualizations:
 
-# Revenue per State: A geographical representation of revenue generated in different states to identify high-performing regions and potential growth opportunities.
-# Revenue Based on Month of the Year: Analyzing revenue patterns over the months to identify seasonal trends and plan marketing strategies accordingly.
-# Revenue Based on Age: Understanding revenue distribution across different age groups to target specific demographics effectively.
-# Quantity - Discount Percentage Correlation: Examining the correlation between quantity purchased and the applied discount to optimize pricing and promotional strategies.
-# Percentage of Revenue per Region: Identifying the contribution of each region to the overall revenue to allocate resources more effectively.
-# Revenue per Category per Gender: Analyzing revenue generated in different product categories based on gender to tailor marketing efforts accordingly.
+* Revenue per State: A geographical representation of revenue generated in different states to identify high-performing regions and potential growth opportunities.
+* Revenue Based on Month of the Year: Analyzing revenue patterns over the months to identify seasonal trends and plan marketing strategies accordingly.
+* Revenue Based on Age: Understanding revenue distribution across different age groups to target specific demographics effectively.
+* Quantity - Discount Percentage Correlation: Examining the correlation between the quantity purchased and the applied discount to optimize pricing and promotional strategies.
+* Percentage of Revenue per Region: Identifying the contribution of each region to the overall revenue to allocate resources more effectively.
+* Revenue per Category per Gender: Analyzing revenue generated in different product categories based on gender to tailor marketing efforts accordingly.
 
 Benefits and Business Impact:
 
-# Data-Driven Decision Making: The project equips businesses with data-driven insights to make informed decisions about marketing, product development, and customer engagement.
-# Improved Customer Satisfaction: By understanding customer preferences and behavior, businesses can offer personalized experiences that enhance customer satisfaction.
-# Increased Customer Retention: The project helps in identifying strategies to improve customer loyalty, leading to increased customer retention and recurring revenue.
-# Competitive Advantage: Understanding customers better gives businesses a competitive edge by tailoring products and services to meet customer expectations effectively.
-# Enhanced Marketing Strategies: Insights gained from the analysis allow businesses to optimize marketing efforts, leading to better ROI and customer acquisition.
+* Data-Driven Decision Making: The project equips businesses with data-driven insights to make informed decisions about marketing, product development, and customer engagement.
+* Improved Customer Satisfaction: By understanding customer preferences and behavior, businesses can offer personalized experiences that enhance customer satisfaction.
+* Increased Customer Retention: The project helps in identifying strategies to improve customer loyalty, leading to increased customer retention and recurring revenue.
+* Competitive Advantage: Understanding customers better gives businesses a competitive edge by tailoring products and services to meet customer expectations effectively.
+* Enhanced Marketing Strategies: Insights gained from the analysis allow businesses to optimize marketing efforts, leading to better ROI and customer acquisition.
 
 Project Deliverables:
 
